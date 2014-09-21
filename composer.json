@@ -1,0 +1,22 @@
+{
+    "name": "chee/pclzip",
+    "description": "Unofficial PclZip#2.8.2 php library in laravel package. document of PclZip => www.phpconcept.net/pclzip",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohsen shafiei",
+            "email": "mohsen.sh12@hotmail.com"
+        }
+    ],
+    "version": "1.0.0",
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Chee\\Pclzip\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
