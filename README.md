@@ -17,7 +17,7 @@ update root `composer.json`:
 
 then run `composer update`.
 
-update app/config/app.php:
+update `app/config/app.php`:
 
 Service Provider:
 
@@ -29,4 +29,10 @@ Aliases[Facades]:
 
 ```php
 'Pclzip'		  => 'Chee\Pclzip\Pclzip'
+```
+
+## Use
+
+```php
+$archive = new Pclzip($path);
 ```
