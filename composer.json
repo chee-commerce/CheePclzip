@@ -18,6 +18,5 @@
         "psr-0": {
             "Chee\\Pclzip\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
