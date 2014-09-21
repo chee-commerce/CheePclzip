@@ -2,6 +2,7 @@
     "name": "chee/pclzip",
     "description": "Unofficial PclZip#2.8.2 php library in laravel package. document of PclZip => www.phpconcept.net/pclzip",
     "license": "MIT",
+    "keywords": ["Laravel 4", "Laravel", "Pclzip"],
     "authors": [
         {
             "name": "mohsen shafiei",
